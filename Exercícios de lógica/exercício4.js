@@ -30,3 +30,25 @@ switch (escolha){
     default:
     console.log ("o número digitado não foi encontrado");
 }
+
+// Aprimorado 2
+let vezes = 3
+for (let i = 0; i < vezes; i++){
+    let nome = prompt ("digite seu nome");
+    
+let escolha = parseInt(prompt("digite 1 se o seu caso for Fies, 2 se for financeiro e 3 se for novas matrículas"));
+
+switch (escolha){
+    case 1:
+    console.log (nome, "você será direcionado para o setor de Fies");
+    break;
+    case 2:
+    console.log (nome, "você será direcionado para o setor de finanças");
+    break;
+    case 3:
+    console.log (nome, "você será direcionado para o setor de matrículas");
+    break;
+    default:
+    console.log ("o número digitado não foi encontrado");
+}
+}
