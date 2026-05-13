@@ -1,25 +1,44 @@
-# exercicío de JavaScript 1
-# 🚀 Práticas de Lógica com JavaScript
 
-Este repositório reúne meus estudos sobre fundamentos do JavaScript, focando em organização de dados e automação de processos simples.
 
----
+# 🧠 Lógica de Programação & Resolução de Problemas
 
-## 🏆 Destaque: Sistema de Inventário Interativo (exercicio5.js)
-
-Este é o projeto onde consolidei o uso de funções para criar um fluxo de programa dinâmico. O script simula um gerenciador de estoque de uma loja de roupas.
-
-### 🛠️ Funcionalidades Técnicas:
-* **Gestão de Dados:** Utilização de múltiplos arrays sincronizados para armazenar nomes, preços e quantidades de produtos.
-* **Modularização:** Divisão do código em funções específicas (`Armazenar`, `Percorrer`, `Somar`) para facilitar a manutenção.
-* **Interface via Console:** Implementação de um **Menu Interativo** utilizando `switch/case` e entrada de dados via `prompt`.
-* **Processamento de Dados:** Uso de laços de repetição (`for`) para percorrer coleções e realizar cálculos matemáticos de soma total.
+Este repositório é um registro das minhas práticas. Aqui, o foco principal é o domínio do **pensamento computacional** e a habilidade de transformar problemas complexos em algoritmos funcionais.
 
 ---
 
-## 📂 Outros Exercícios
-* **codigo.js / codigo2.js:** Primeiros contatos com variáveis e tipos de dados.
-* **exercicio3.js / exercicio4.js:** Práticas iniciais de condicionais e loops simples.
+## 🎯 O Objetivo
+
+Mais do que aprender a sintaxe de uma linguagem, este espaço documenta o desenvolvimento do meu raciocínio lógico. O objetivo é fortalecer a base necessária para decompor desafios, estruturar fluxos de dados e criar soluções eficientes que podem ser aplicadas em qualquer stack tecnológica.
 
 ---
-**💡 Objetivo:** Evoluir para o uso de Objetos Literais e manipulação do DOM em breve!
+
+## 🧩 Pilares em Desenvolvimento
+
+Os exercícios contidos aqui exploram conceitos essenciais da computação:
+
+* **Estruturação de Algoritmos:** Desenvolvimento do passo a passo lógico para atingir um resultado.
+* **Controle de Fluxo:** Uso estratégico de condicionais e laços de repetição.
+* **Manipulação de Dados:** Organização e tratamento de informações através de arrays e objetos.
+* **Modularização:** Divisão de problemas em funções menores e independentes.
+* **Eficiência:** Busca por soluções que resolvam o problema com clareza e performance.
+
+---
+
+## 💻 Implementação Técnica
+
+Para materializar o raciocínio lógico, as soluções foram desenvolvidas utilizando:
+
+* **Linguagem:** JavaScript (ES6+)
+* **Ambiente:** Execução via Terminal (Node.js) e Navegador.
+* **Versionamento:** Git para controle e organização do histórico de progresso.
+
+---
+
+## 🚀 Metodologia
+
+Minha abordagem para cada desafio segue três etapas:
+
+1. **Análise:** Compreensão total dos requisitos do problema.
+2. **Desenvolvimento:** Escrita do código priorizando a lógica e a corretude.
+3. **Refinação:** Revisão do código para garantir legibilidade e boas práticas.
+
